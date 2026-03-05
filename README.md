@@ -1,2 +1,2 @@
 # aula-git-github-wasd
-uma descricao
+uma descricao muito bem descrita
